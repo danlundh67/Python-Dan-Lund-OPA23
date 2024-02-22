@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 data/test_result.txt
 data/dice_rolls.txt
+data/NPvt19Ma2A.txt
+data/NPvt19Ma2B.txt
+data/NPvt19Ma2C.txt
